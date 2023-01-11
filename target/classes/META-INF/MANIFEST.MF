@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: ELCOT
 Build-Jdk: 19
+=======
+Built-By: dell
+Build-Jdk: 17.0.5
+>>>>>>> 98d538e0a9bfa8cf78eb0dd17c384543152dc106
 Created-By: Maven Integration for Eclipse
 
